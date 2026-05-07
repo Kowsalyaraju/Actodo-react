@@ -12,7 +12,7 @@ function Login(props)
     const[ruser,setruser] = useState(true)
 
     const users = props.users
-    const serusers = props.setusers
+    
 
     function handleUInput(event)
     {

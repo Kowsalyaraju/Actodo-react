@@ -7,7 +7,7 @@ function Todoitem(props)
 {
        var newarr = Activityarr.filter(function(item)
     {
-        if(item.id==removeid)
+        if(item.id===removeid)
         {
             return false
         }

@@ -4,7 +4,7 @@ import Login from "./Pages/Login";
 import Signup from "./Pages/Sign Up";
 import Landing from "./Pages/Landing";
 
-import { BrowserRouter, Route, Routes, Link } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { useState } from "react";
 
 function App()
